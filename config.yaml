@@ -37,3 +37,9 @@ monitors:
     url: 'https://blog.cloudflare.com/'
     method: GET
     expectStatus: 200
+    
+  - id: api-playground
+    name: api-playground
+    url: 'http://api.qiaocc.me/ping'
+    method: GET
+    expectStatus: 200
