@@ -21,8 +21,8 @@ monitors:
     method: GET
     expectStatus: 200
     
-  - id: chatgptnow backend
-    name: chatgptnow backend
-    url: 'https://chatgptnow.cc/api/ping'
+  - id: chatgpthub.cc backend
+    name: chatgpthub.cc backend
+    url: 'https://chatgpthub.cc/api/ping'
     method: GET
     expectStatus: 200
