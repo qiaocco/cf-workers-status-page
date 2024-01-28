@@ -20,9 +20,3 @@ monitors:
     url: 'http://api.qiaocc.me/ping'
     method: GET
     expectStatus: 200
-    
-  - id: chatgptnow.cc backend
-    name: chatgptnow.cc backend
-    url: 'https://chatgptnow.cc/api/ping'
-    method: GET
-    expectStatus: 200
